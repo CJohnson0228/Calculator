@@ -1,6 +1,6 @@
 # Calculator App
 
-I created this small app in an afternooon just as a little javascript practice created with the following libraries:
+I created this small app in an afternooon just as a little javascript practice, created with the following libraries:
 
 1. React
 2. Typescript
